@@ -1,4 +1,4 @@
 DartRedisClient
 ===============
 
-Stub repo for DartRedisClient to its new location Dartist/RedisClient
+DartRedisClient has moved to https://github.com/Dartist/RedisClient
