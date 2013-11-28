@@ -1,4 +1,4 @@
-DartRedisClient
-===============
+Dart Redis Client
+=================
 
-DartRedisClient has moved to https://github.com/Dartist/RedisClient
+The Dart RedisClient has moved to https://github.com/dartist/redis_client
